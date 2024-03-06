@@ -65,8 +65,8 @@ const account3 = {
     '2023-09-25T18:49:59.371Z',
     '2023-12-26T14:11:20.894Z',
   ],
-  currency: 'USD',
-  locale: 'en-US',
+  currency: 'PLN',
+  locale: 'pl-PL',
 };
 
 const accounts = [account1, account2, account3];
